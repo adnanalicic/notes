@@ -1,3 +1,3 @@
 # My notes
 
-[Rewrite git history](https://github.com/adnanalicic/notes/github/README.md)
+[How to rewrite git history ?](https://github.com/adnanalicic/notes/tree/main/github)
